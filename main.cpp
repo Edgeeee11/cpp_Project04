@@ -42,9 +42,9 @@ int main()
 				printf("Sunday");
 			}
 			break;
-//		default: 
-//		{
-//			printf("Error");
-//		}
+		default: 
+		{
+			printf("Error");
+		}
 	}	
 }
